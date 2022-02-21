@@ -32,7 +32,7 @@ body{
 
 .view{
     height: 100vh;
-    background-image: var(--background), url('../Proyecto/fotos/Gpu1.jpg');
+    background-image: var(--background), url('../Proyecto/fotos/gpu1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
